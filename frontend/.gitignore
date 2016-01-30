@@ -1,0 +1,9 @@
+**/.DS_STORE
+**/*.hot-update.js
+**/*.hot-update.json
+**/.tern-port
+**/node_modules/*
+**/__pycache__
+*.pyc
+**/.stack-work
+*.swp
